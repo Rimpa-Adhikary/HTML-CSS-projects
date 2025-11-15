@@ -1,0 +1,37 @@
+
+body {
+    color: tomato;
+    background-image: url("aRZ4vTsHnyW6A.gif");
+    background-size: cover;
+    text-align: center;
+    font-family: "Orbitron", sans-serif;
+    font-size: 50px;
+    text-shadow: 2px 2px 5px gray;
+}
+
+.btn1 {
+    padding: 6px 12px;
+    background-color: rgb(107, 7, 7);
+    width: auto;
+    height: auto;
+    border-radius: 12px;
+    font-size: 20px;
+    color: white;
+    border: 2px solid white;
+    cursor: pointer;
+    margin: 10px;
+    font-family: inherit;
+    text-shadow: 5px 5px 10px grey;
+}
+.player-pic
+{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width:400px;
+    height: 400px;
+    padding: 8px 8px ;
+    margin: auto;
+    mix-blend-mode: screen;
+    
+}
